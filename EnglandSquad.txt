@@ -5,8 +5,7 @@
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 \ul \ulc0 England Euro Squad\ulnone \
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 Wayne Rooney\
+Wayne Rooney\
 Jamie Vardy\
 Daniel Sturridge\
 Joe Hart\
@@ -19,12 +18,6 @@ Michael Cahill\
 Kyle Walker\
 Deli Alli\
 Eric Dier\
-Harry Kane\
-Raheem Sterling\
-James Milner\
-Jordan Henderson\
-Ross Barkley\
-John Stones\
 Ryan Betrand \
-\
+PETER LAWLOR!\
 }
