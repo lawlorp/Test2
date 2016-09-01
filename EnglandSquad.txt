@@ -4,20 +4,13 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 \ul \ulc0 England Euro Squad\ulnone \
-Wayne Rooney\
-Jamie Vardy\
-Daniel Sturridge\
-Joe Hart\
-Chris Smalling \
-Danny Rose\
-Jack Wilshire\
-Adam Lallana\
-Marcus Rashford\
-Michael Cahill\
-Kyle Walker\
-Deli Alli\
-Eric Dier\
-Ryan Betrand \
-PETER LAWLOR!\
+\f0\fs24 \cf0 \ul \ulc0 England Euro Squad\
+\ulnone GK: Joe Hart, Frasier Forster, Jack Butland\
+LB: Ryan Bertrand, Danny Rose, Luke Shaw\
+CB: John Stones, Michael Cahill, John Terry, Chris Smalling\
+RB: Kyle Walker, Nathaniel Clyne\
+M: Eric Dier, Deli Alli, Adam Lallana, Ross Barkley, Jordon Henderson\
+ST: Wayne Rooney(c), Jamie Vardy, Marcus Rashford, Harry Kane\
+\
+By Peter Lawlor\
 }
